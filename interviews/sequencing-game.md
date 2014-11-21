@@ -22,4 +22,4 @@ Think of this like a puzzle. The items in the column are shuffled and random. Wh
 
 ## What we're looking for
 
-We're really just looking for sudo code here. It doesn't have to work exactly, we're just looking at your approach to the problem. This is something that can usually be stubbed out in a chatroom together over 20 - 30 minutes if you're really good.
+We're really just looking for pseudo code here. It doesn't have to work exactly, we're just looking at your approach to the problem. This is something that can usually be stubbed out in a chatroom together over 20 - 30 minutes if you're really good.
