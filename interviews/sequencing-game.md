@@ -15,7 +15,7 @@ Think of this like a puzzle. The items in the column are shuffled and random. Wh
 
 ## What we're looking for
 
-We're really just looking for pseudo code here. And, only javascript. It doesn't have to work exactly, we're just looking at your approach to the problem. This is a good example of something that we usually stub out in a chatroom together over 20 - 30 minutes.
+We're really just looking for **pseudo** code here. And, only Javascript. It doesn't have to work exactly, we're just looking at your approach to the problem. This is a good example of something that we usually stub out in a chatroom together over 20 - 30 minutes.
 
 ![ScreenShot](http://mindspacepdx.s3.amazonaws.com/github-images/video-sequence-diagram.png)
 
