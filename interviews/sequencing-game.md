@@ -13,6 +13,8 @@ Here is the task. The client would like to see a prototype of a mini-game that i
 
 Think of this like a puzzle. The items in the column are shuffled and random. When the row is full of those items in the right order, they would make one long image. 
 
+![ScreenShot](https://www.dropbox.com/s/0biokj3zkn2s37l/video-sequence-diagram.png)
+
 ## Guidelines
 
 1. Try not to use jQuery too much, the more native JS the better
