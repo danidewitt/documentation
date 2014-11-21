@@ -20,7 +20,10 @@ Think of this like a puzzle. The items in the column are shuffled and random. Wh
 1. Try not to use jQuery too much, the more native JS the better
 2. Modern browsers only, no need for crazy IE 8 stuff
 3. Think about whether you want to use data-attributes or not, and why
-4. Any fancyness you'd like to add to this is even better
+4. Any fancyness you'd like to add to this is even better. Such as:
+  5. Tracking how long it took to get right
+  6. Tracking how many incorrect tries before success
+  7. Perfect score, meaning the number of tries is the number of items to sequence
 
 ## What we're looking for
 
