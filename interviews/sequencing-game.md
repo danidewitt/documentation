@@ -13,6 +13,10 @@ Here is the task. The client would like to see a prototype of a mini-game that i
 
 Think of this like a puzzle. The items in the column are shuffled and random. When the row is full of those items in the right order, they would make one long image. 
 
+## What we're looking for
+
+We're really just looking for pseudo code here. And, only javascript. It doesn't have to work exactly, we're just looking at your approach to the problem. This is a good example of something that we usually stub out in a chatroom together over 20 - 30 minutes.
+
 ![ScreenShot](http://mindspacepdx.s3.amazonaws.com/github-images/video-sequence-diagram.png)
 
 ## Guidelines
@@ -21,7 +25,3 @@ Think of this like a puzzle. The items in the column are shuffled and random. Wh
 2. Modern browsers only, no need for crazy IE 8 stuff
 3. Think about whether you want to use data-attributes or not, and why
 4. Any fancyness you'd like to add to this is even better.
-
-## What we're looking for
-
-We're really just looking for pseudo code here. It doesn't have to work exactly, we're just looking at your approach to the problem. This is something that can usually be stubbed out in a chatroom together over 20 - 30 minutes.
