@@ -1,5 +1,5 @@
 
-# Sequencing
+# Exercise 2: Comparing Items
 
 Here is the task. The client would like to see a prototype of a mini-game that is completely client-side – you do not need to save to a server. They would like to see what our designer meant by "video squencing game". How the game works is relatively simple.
 
@@ -23,5 +23,4 @@ We're really just looking for **pseudo** code here. And, only Javascript. It doe
 
 1. Try not to use jQuery too much, the more native JS the better
 2. Modern browsers only, no need for crazy IE 8 stuff
-3. Think about whether you want to use data-attributes or not, and why
-4. Any fancyness you'd like to add to this is even better.
+3. Any fancyness you'd like to add to this is even better.
