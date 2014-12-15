@@ -17,6 +17,7 @@ At Mindspace, we use [Github Flow](https://guides.github.com/introduction/flow/i
 * `individual tasks` are created for developers
 * `master tasks` are created for project management
 * read the thing about [task labels](#task-labels) and Huboard
+* we use Github flow, understand it, and never commit code directly to master
 
 ### Tasks
 
