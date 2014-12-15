@@ -1,13 +1,9 @@
-# Mindspace Documentation
+# Welcome to Mindspace
 
-This is a repo that stores documents we use for development interviews (junior and senior) as well as any other public facing information about the development team. 
+### Getting Started
 
-A few guidelines to note:
-
-1. Don't use Yeoman, please.
-2. We use Grunt, not Gulp.
-2. Modularize your Gruntfile using [auto load tasks](https://github.com/sindresorhus/load-grunt-tasks) and [auto config](https://github.com/firstandthird/load-grunt-config) stuffs. 
-3. Modularize your Javascript, use jQuery sparingly and don't submit long jQuery callback hell files. 
-4. Comment your code, use [DocBlockr Sublime plugin](https://github.com/spadgos/sublime-jsdocs).
-
-
+1. Download the `laptop.local.example` file, edit it to your liking, and save it to ~/.laptop.local:  [download](https://github.com/mindspacepdx/laptop/blob/master/misc/laptop.local.example)
+    1. Want more information on what this file is? [Read about Cask](http://caskroom.io)
+1. Run the following script to turn your laptop into a development machine `bash <(curl -s https://raw.githubusercontent.com/mindspacepdx/laptop/master/mac) 2>&1 | tee ~/Desktop/laptop.log`
+    1. Follow all instructions that are printed
+1. Read the DevTeam workflow doc [Read](https://github.com/mindspacepdx/documentation/blob/master/getting-started/workflow.md)
