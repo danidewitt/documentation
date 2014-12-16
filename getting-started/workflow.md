@@ -102,6 +102,12 @@ So using the above example, Jay would write something like this in his PR:
 * Resolves #143
 ```
 
-This will automatically close the issue #143 when the PR is merged into master.
+Once Jay has made this PR, he will post it for someone to check, usually in Slack.
 
-Onto the next issue =) 
+> Hey @channel? Can someone look at this? https://....
+
+Someone will volunteer and take a look at the PR and give it a :thumbsup: or :thumbsdown: with a reason. If you get the :thumbsup: then you can hit the "merge" button for your PR to get into master. 
+
+![Pull request example](http://mindspacepdx.s3.amazonaws.com/github-images/pull-request-example.png)
+
+Hitting "merge" will automatically close the issue #143 when the PR is merged into master. Then Github will let you delete the branch. You **do** want to do this =)
